@@ -26,7 +26,6 @@ body {
 	.row {
 		flex: 1;
 	}
-
 }
 
 @media (min-width: 1025px) {
